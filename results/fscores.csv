@@ -1,0 +1,12 @@
+type,NB
+explicit agreement,0.7444444444444427
+other,0.7142857142857143
+other+explicit agreement,0.6363636363636365
+positive reference,0.5999999999999999
+positive reference+explicit agreement,0.5833333333333333
+positive reference+other+explicit agreement,0.6666666666666666
+praise thanking,0.6818181818181825
+praise thanking+explicit agreement,0.6666666666666665
+praise thanking+positive reference,0.5714285714285713
+praise thanking+positive reference+explicit agreement,1.0
+praise thanking+positive reference+other,0.5

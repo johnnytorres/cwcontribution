@@ -1,0 +1,4 @@
+type,SGDClassifier,MultinomialNB,BernoulliNB
+criticism,0.5,1.0,0.5
+praise,0.0,0.0,0.0
+statement,0.3333333333333333,0.0,0.3333333333333333

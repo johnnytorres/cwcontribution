@@ -1,0 +1,11 @@
+stat,value
+F micro MultinomialNB,0.4166666666666667
+F macro MultinomialNB,0.37606837606837606
+F micro BernoulliNB,0.4166666666666667
+F macro BernoulliNB,0.3833333333333333
+F micro LinearSVC,0.25
+F macro LinearSVC,0.28888888888888886
+F micro LinearSVC,0.25
+F macro LinearSVC,0.28888888888888886
+F micro SGDClassifier,0.25
+F macro SGDClassifier,0.28888888888888886

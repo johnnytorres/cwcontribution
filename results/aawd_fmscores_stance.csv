@@ -1,0 +1,11 @@
+stat,value
+F micro NearestCentroid,0.5333333333333318
+F macro NearestCentroid,0.533942226206021
+F micro SGDClassifier,0.5288888888888933
+F macro SGDClassifier,0.5307788451616208
+F micro LinearSVC,0.5244444444444417
+F macro LinearSVC,0.5257400627557733
+F micro PassiveAggressiveClassifier,0.5022222222222236
+F macro PassiveAggressiveClassifier,0.5020372428492407
+F micro Pipeline,0.5
+F macro Pipeline,0.5003150121546013

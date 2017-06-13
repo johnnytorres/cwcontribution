@@ -1,0 +1,11 @@
+stat,value
+F micro LinearSVC,0.48
+F macro LinearSVC,0.478395061728395
+F micro SGDClassifier,0.4266666666666661
+F macro SGDClassifier,0.4194631600646632
+F micro MultinomialNB,0.48
+F macro MultinomialNB,0.46957233913755647
+F micro SGDClassifier,0.4266666666666661
+F macro SGDClassifier,0.4194631600646632
+F micro SGDClassifier,0.4266666666666661
+F macro SGDClassifier,0.4194631600646632

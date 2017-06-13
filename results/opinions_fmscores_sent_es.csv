@@ -1,0 +1,11 @@
+stat,value
+F micro SGDClassifier,0.3333333333333333
+F macro SGDClassifier,0.26666666666666666
+F micro SGDClassifier,0.3333333333333333
+F macro SGDClassifier,0.26666666666666666
+F micro SGDClassifier,0.3333333333333333
+F macro SGDClassifier,0.26666666666666666
+F micro MultinomialNB,0.3333333333333333
+F macro MultinomialNB,0.3
+F micro BernoulliNB,0.3333333333333333
+F macro BernoulliNB,0.26666666666666666

@@ -1,0 +1,11 @@
+stat,value
+F micro RandomForestClassifier,0.5488888888888841
+F macro RandomForestClassifier,0.5447010636137352
+F micro SGDClassifier,0.5288888888888933
+F macro SGDClassifier,0.5269722414064687
+F micro LinearSVC,0.5155555555555524
+F macro LinearSVC,0.5165937949133762
+F micro LinearSVC,0.5155555555555524
+F macro LinearSVC,0.5165937949133762
+F micro NearestCentroid,0.5133333333333288
+F macro NearestCentroid,0.5178921607442816

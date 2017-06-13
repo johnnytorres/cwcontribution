@@ -1,0 +1,9 @@
+type,MultinomialNB,BernoulliNB,LinearSVC,SGDClassifier
+agreement,0.0,0.0,0.5,0.5
+content,1.0,1.0,0.0,0.0
+criticism,1.0,0.0,0.0,0.0
+doubing,0.0,0.0,0.0,0.0
+praise,0.6666666666666666,1.0,0.6666666666666666,0.6666666666666666
+references,0.0,0.0,0.0,0.0
+spam,1.0,1.0,0.0,0.0
+statement,0.0,0.0,0.0,0.0
